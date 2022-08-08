@@ -1,5 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Spotify Clone
+
+This app is clone of the spotify music player and is currently under development.
+
+## Progress
+
+### Day - 1
+
+1. Created a Next app, using [`npx create-next-app`]
+2. Added dependencies to the application.
+3. Initialized the [`.eslintrc.js`], [`.babelrc`], and [`tsconfig.json`] files.
+4. In the [`_app.tsx`], added the root component within the [`<ChakraProvider>`].
+5. Updated themes for button component, and grey color using Chakra [`extendedTheme`].
+6. Created a git repository, and pushed the code.
+
 ## Getting Started
 
 First, run the development server:
