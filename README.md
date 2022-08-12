@@ -15,6 +15,10 @@ This app is clone of the spotify music player and is currently under development
 5. Updated themes for button component, and grey color using Chakra [`extendedTheme`].
 6. Created a git repository, and pushed the code.
 
+### Day - 2
+
+1. Created the Sidebar Layout.
+
 ## Getting Started
 
 First, run the development server:
